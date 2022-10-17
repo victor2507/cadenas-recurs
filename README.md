@@ -1,9 +1,14 @@
 # cadenas-recurs
 Projet de NSI
 ## Arboressance :
-| class.py    -> Fichier qui contient les deux classes. <br>
-| main.py     -> Fichier qui contient le code principale de la résolution du problème. <br>
-| projet.tex  -> Fichier source du pdf (fichier latex) <br>
+Fichier qui contient les deux classes.
+-> class.py
+
+Fichier qui contient le code principale de la résolution du problème.
+-> main.py
+
+Fichier source du pdf (fichier latex)
+-> projet.tex
 
 ## Consigne
 Un coffre-fort rempli de pièces d’or est fermé par autant de cadenas qu’il y a de joueurs.
