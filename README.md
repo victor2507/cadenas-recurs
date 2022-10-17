@@ -1,6 +1,11 @@
 # cadenas-recurs
+Projet de NSI
+## Arboressance :
+| class.py    -> Fichier qui contient les deux classes.
+| main.py     -> Fichier qui contient le code principale de la résolution du problème.
+| projet.tex  -> Fichier source du pdf (fichier latex)
 
-# Consigne
+## Consigne
 Un coffre-fort rempli de pièces d’or est fermé par autant de cadenas qu’il y a de joueurs.
 S’il n’y a qu’un seul joueur, celui-ci devra réussir à l’ouvrir avec un nombre d’essais
 limité (ou dans un laps de temps limité) sans quoi le coffre explose et le trésor est perdu
