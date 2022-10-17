@@ -1,4 +1,4 @@
-Class Cadena():
+class Cadena():
    
 
    
