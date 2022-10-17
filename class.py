@@ -1,2 +1,22 @@
-Class Cadena():
+class Cadena():
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+class ListeCarCombinaison():
+   
+   
+   
+   
+   
+   
    
